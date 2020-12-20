@@ -1,0 +1,4 @@
+loguru==0.4.1
+PyMySQL==0.9.3
+requests==2.23.0
+cacheout==0.11.2
